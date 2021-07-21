@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: poc
+  description: POC of Backstage Components
+spec:
+  targets:
+    - ./components/service-chronicle.yaml
