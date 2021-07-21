@@ -5,4 +5,4 @@ metadata:
   description: POC of Backstage Components
 spec:
   targets:
-    - ./components/service-chronicle.yaml
+    - ./components/test-component.yaml
